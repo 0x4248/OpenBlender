@@ -2,7 +2,7 @@ if (window.location.hostname === 'localhost' || window.location.hostname === '12
     var root = '/';
     document.getElementById('title').innerHTML = 'OpenBlender';
 } else {
-    var root = '/OpenBlender-Site/';
+    var root = '/OpenBlender/';
 }
 
 function get_projects(callback) {

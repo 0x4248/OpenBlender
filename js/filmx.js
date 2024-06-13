@@ -1,7 +1,7 @@
 if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
     var root = '/';
 } else {
-    var root = '/OpenBlender-Site/';
+    var root = '/OpenBlender/';
 }
 
 function get_films(callback) {
