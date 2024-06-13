@@ -1,0 +1,478 @@
+{
+  "Projects": [
+    {
+      "Name": "Can",
+      "Category": "Object",
+      "Blender_File": "Source/Objects/Can/can.blend",
+      "Thumbnail": "Source/Objects/Can/thumbnail.jpg",
+      "Notes": "Source/Objects/Can/notes.txt",
+      "Engine": "None",
+      "Description": "This is a can that has a crumple modifier that is controlled using a empty and an armature.",
+      "Icons": {
+        "Is3D": "True",
+        "IsAsset": "True",
+        "IsAssets": "False",
+        "RequiresFastComputer": "False",
+        "IsAnimated": "False",
+        "IsRigged": "True",
+        "IsCurves": "False",
+        "IsTopPick": "False",
+        "IsGeoNodes": "False"
+      },
+      "Screenshots": [
+        "Source/Objects/Can/Screenshot 1.jpg",
+        "Source/Objects/Can/Screenshot 2.jpg",
+        "Source/Objects/Can/Screenshot 3.jpg",
+        "Source/Objects/Can/Screenshot 4.jpg"
+      ],
+      "Other_files": {
+        "FBX": "Source/Objects/Can/can.fbx",
+        "OBJ": "Source/Objects/Can/can.obj",
+        "MTL": "Source/Objects/Can/can.mtl",
+        "GLB": "Source/Objects/Can/can.glb"
+      }
+    },
+    {
+      "Name": "Pallet",
+      "Category": "Object",
+      "Blender_File": "Source/Objects/Pallet/pallet.blend",
+      "Thumbnail": "Source/Objects/Pallet/thumbnail.jpg",
+      "Notes": "Source/Objects/Pallet/notes.txt",
+      "Engine": "Cycles",
+      "Description": "A pallet created only with 4 objects and array modifiers. The objects all have procedural textures on them.",
+      "Icons": {
+        "Is3D": "True",
+        "IsAsset": "False",
+        "IsAssets": "True",
+        "RequiresFastComputer": "False",
+        "IsAnimated": "False",
+        "IsRigged": "False",
+        "IsCurves": "False",
+        "IsTopPick": "True",
+        "IsGeoNodes": "False"
+      },
+      "Screenshots": [
+        "Source/Objects/Pallet/Screenshot 1.jpg",
+        "Source/Objects/Pallet/Screenshot 2.jpg",
+        "Source/Objects/Pallet/Screenshot 3.jpg",
+        "Source/Objects/Pallet/Screenshot 4.jpg"
+      ],
+      "Other_files": {
+        "FBX": "Source/Objects/Pallet/pallet.fbx",
+        "GLB": "Source/Objects/Pallet/pallet.glb",
+        "OBJ": "Source/Objects/Pallet/pallet.obj",
+        "MTL": "Source/Objects/Pallet/pallet.mtl",
+        "PLY": "Source/Objects/Pallet/pallet.ply",
+        "STL": "Source/Objects/Pallet/pallet.stl"
+      }
+    },
+    {
+      "Name": "Road sign",
+      "Category": "Object",
+      "Blender_File": "Source/Objects/Road sign/road sign.blend",
+      "Thumbnail": "Source/Objects/Road sign/thumbnail.jpg",
+      "Notes": "Source/Objects/Road sign/notes.txt",
+      "Engine": "Cycles",
+      "Description": "A road closed sign made using UV unwrapping.",
+      "Icons": {
+        "Is3D": "True",
+        "IsAsset": "True",
+        "IsAssets": "False",
+        "RequiresFastComputer": "False",
+        "IsAnimated": "False",
+        "IsRigged": "False",
+        "IsCurves": "False",
+        "IsTopPick": "True",
+        "IsGeoNodes": "False"
+      },
+      "Screenshots": [
+        "Source/Objects/Road sign/Screenshot 1.jpg",
+        "Source/Objects/Road sign/Screenshot 2.jpg",
+        "Source/Objects/Road sign/Screenshot 3.jpg",
+        "Source/Objects/Road sign/Screenshot 4.jpg"
+      ],
+      "Other_files": {
+        "FBX": "Source/Objects/Road sign/road_sign.fbx",
+        "OBJ": "Source/Objects/Road sign/road_sign.obj",
+        "MTL": "Source/Objects/Road sign/road_sign.mtl",
+        "GLB": "Source/Objects/Road sign/road_sign.glb"
+      }
+    },
+    {
+      "Name": "Wood Beams",
+      "Category": "Object",
+      "Blender_File": "Source/Objects/Wood beams/Wood beams.blend",
+      "Thumbnail": "Source/Objects/Wood beams/thumbnail.jpg",
+      "Notes": "Source/Objects/Wood beams/notes.txt",
+      "Engine": "Cycles",
+      "Description": "Collection of bent wooden beams for creating wooden structures.",
+      "Icons": {
+        "Is3D": "True",
+        "IsAsset": "True",
+        "IsAssets": "False",
+        "RequiresFastComputer": "False",
+        "IsAnimated": "False",
+        "IsRigged": "False",
+        "IsCurves": "False",
+        "IsTopPick": "True",
+        "IsGeoNodes": "False"
+      },
+      "Screenshots": [
+        "Source/Objects/Wood beams/Screenshot 1.jpg",
+        "Source/Objects/Wood beams/Screenshot 2.jpg",
+        "Source/Objects/Wood beams/Screenshot 3.jpg",
+        "Source/Objects/Wood beams/Screenshot 4.jpg"
+      ],
+      "Other_files": {
+        "FBX Beam 1": "Source/Objects/Wood beams/beam 1.fbx",
+        "OBJ Beam 1": "Source/Objects/Wood beams/beam 1.obj",
+        "MTL Beam 1": "Source/Objects/Wood beams/beam 1.mtl",
+        "FBX Beam 2": "Source/Objects/Wood beams/beam 2.fbx",
+        "OBJ Beam 2": "Source/Objects/Wood beams/beam 2.obj",
+        "MTL Beam 2": "Source/Objects/Wood beams/beam 2.mtl",
+        "FBX Beam 3": "Source/Objects/Wood beams/beam 3.fbx",
+        "OBJ Beam 3": "Source/Objects/Wood beams/beam 3.obj",
+        "MTL Beam 3": "Source/Objects/Wood beams/beam 3.mtl",
+        "FBX Beam 4": "Source/Objects/Wood beams/beam 4.fbx",
+        "OBJ Beam 4": "Source/Objects/Wood beams/beam 4.obj",
+        "MTL Beam 4": "Source/Objects/Wood beams/beam 4.mtl"
+      }
+    },
+    {
+      "Name": "Monkey",
+      "Category": "DemoFile",
+      "Blender_File": "Source/Demo files/Monkey/Monkey.blend",
+      "Thumbnail": "Source/Demo files/Monkey/thumbnail.jpg",
+      "Notes": "Source/Demo files/Monkey/notes.txt",
+      "Engine": "Cycles (EEVEE Compatible)",
+      "Description": "A basic monkey render for testing and render benchmarking.",
+      "Icons": {
+        "Is3D": "True",
+        "IsAsset": "False",
+        "IsAssets": "False",
+        "RequiresFastComputer": "False",
+        "IsAnimated": "False",
+        "IsRigged": "False",
+        "IsCurves": "False",
+        "IsTopPick": "False",
+        "IsGeoNodes": "False"
+      },
+      "Screenshots": [
+        "Source/Demo files/Monkey/Screenshot 1.jpg",
+        "Source/Demo files/Monkey/Screenshot 2.jpg",
+        "Source/Demo files/Monkey/Screenshot 3.jpg",
+        "Source/Demo files/Monkey/Screenshot 4.jpg"
+      ],
+      "Other_files": {
+        "FBX": "Source/Demo files/Monkey/Monkey.fbx",
+        "OBJ": "Source/Demo files/Monkey/Monkey.obj",
+        "MTL": "Source/Demo files/Monkey/Monkey.mtl",
+        "GLB": "Source/Demo files/Monkey/Monkey.glb",
+        "Render": "Source/Demo files/Monkey/render.png",
+        "Noisy Render": "Source/Demo files/Monkey/render_noisy.png",
+        "Mist": "Source/Demo files/Monkey/mist.png",
+        "Normal": "Source/Demo files/Monkey/normal.png"
+      }
+    },
+    {
+      "Name": "Box",
+      "Category": "DemoFile",
+      "Blender_File": "Source/Demo files/Box/box.blend",
+      "Thumbnail": "Source/Demo files/Box/thumbnail.jpg",
+      "Notes": "Source/Demo files/Box/notes.txt",
+      "Engine": "Cycles",
+      "Description": "A benchmark file that has simple shaders and objects.",
+      "Icons": {
+        "Is3D": "True",
+        "IsAsset": "False",
+        "IsAssets": "False",
+        "RequiresFastComputer": "True",
+        "IsAnimated": "False",
+        "IsRigged": "False",
+        "IsCurves": "False",
+        "IsTopPick": "True",
+        "IsGeoNodes": "False"
+      },
+      "Screenshots": [
+        "Source/Demo files/Box/Screenshot 1.jpg",
+        "Source/Demo files/Box/Screenshot 2.jpg",
+        "Source/Demo files/Box/Screenshot 3.jpg",
+        "Source/Demo files/Box/Screenshot 4.jpg",
+        "Source/Demo files/Box/Screenshot 5.png",
+        "Source/Demo files/Box/Screenshot 6.png"
+      ],
+      "Other_files": {
+        "FBX": "Source/Demo files/Box/box.fbx",
+        "OBJ": "Source/Demo files/Box/box.obj",
+        "MTL": "Source/Demo files/Box/box.mtl",
+        "PLY": "Source/Demo files/Box/box.ply",
+        "GLB": "Source/Demo files/Box/box.glb",
+        "STL": "Source/Demo files/Box/box.stl",
+        "Noisy Render": "Source/Demo files/Box/noisy_render.png",
+        "Diffuse Colour": "Source/Demo files/Box/diffuse_colour.png",
+        "Diffuse Direct": "Source/Demo files/Box/diffuse_direct.png",
+        "Diffuse Indirect": "Source/Demo files/Box/diffuse_indirect.png",
+        "Glossy Colour": "Source/Demo files/Box/glossy_colour.png",
+        "Glossy Direct": "Source/Demo files/Box/glossy_direct.png",
+        "Glossy Indirect": "Source/Demo files/Box/glossy_indirect.png",
+        "Mist": "Source/Demo files/Box/mist.png",
+        "Normal": "Source/Demo files/Box/normal.png",
+        "Position": "Source/Demo files/Box/position.png"
+      }
+    },
+    {
+      "Name": "Colour Bars",
+      "Category": "DemoFile",
+      "Blender_File": "Source/Demo files/Colour Bars/colour_bars.blend",
+      "Thumbnail": "Source/Demo files/Colour Bars/thumbnail.jpg",
+      "Notes": "Source/Demo files/Colour Bars/notes.txt",
+      "Engine": "EEVEE",
+      "Description": "This set of colour bars allows you to colour correct and focus cameras and videos. It has many tests including contrast, distortion, focus, colour and brightness.",
+      "Icons": {
+        "Is3D": "False",
+        "IsAsset": "True",
+        "IsAssets": "False",
+        "RequiresFastComputer": "False",
+        "IsAnimated": "False",
+        "IsRigged": "False",
+        "IsCurves": "False",
+        "IsTopPick": "False",
+        "IsGeoNodes": "False"
+      },
+      "Screenshots": [
+        "Source/Demo files/Colour Bars/Screenshot 1.jpg",
+        "Source/Demo files/Colour Bars/Screenshot 2.jpg",
+        "Source/Demo files/Colour Bars/Screenshot 3.jpg",
+        "Source/Demo files/Colour Bars/Screenshot 4.jpg"
+      ],
+      "Other_files": {
+        "500x500 PNG": "Source/Demo files/Colour Bars/500x500.png",
+        "1000x1000 PNG": "Source/Demo files/Colour Bars/1000x1000.png",
+        "5000x5000 PNG": "Source/Demo files/Colour Bars/5000x5000.png",
+        "500x500 HDR": "Source/Demo files/Colour Bars/500x500.hdr",
+        "1000x1000 HDR": "Source/Demo files/Colour Bars/1000x1000.hdr",
+        "500x500 EXR": "Source/Demo files/Colour Bars/500x500.exr",
+        "1000x1000 EXR": "Source/Demo files/Colour Bars/1000x1000.exr"
+      }
+    },
+    {
+      "Name": "Mirror",
+      "Category": "DemoFile",
+      "Description": "A scene that utilises raytracing to reflect light off an object.",
+      "Blender_File": "Source/Demo files/Mirror/mirror.blend",
+      "Thumbnail": "Source/Demo files/Mirror/thumbnail.jpg",
+      "Engine": "Cycles",
+      "Notes": "Source/Demo files/Mirror/notes.txt",
+      "Icons": {
+        "Is3D": "True",
+        "IsAsset": "False",
+        "IsAssets": "False",
+        "RequiresFastComputer": "True",
+        "IsAnimated": "True",
+        "IsRigged": "False",
+        "IsCurves": "False",
+        "IsTopPick": "False"
+      },
+      "Screenshots": [
+        "Source/Demo files/Mirror/Screenshot 1.jpg",
+        "Source/Demo files/Mirror/Screenshot 2.jpg",
+        "Source/Demo files/Mirror/Screenshot 3.jpg",
+        "Source/Demo files/Mirror/Screenshot 4.jpg"
+      ],
+      "Other_files": {
+        "Mist": "Source/Demo files/Mirror/mist.png",
+        "Normal": "Source/Demo files/Mirror/normal.png",
+        "Position": "Source/Demo files/Mirror/position.png"
+      }
+    },
+    {
+      "Name": "Zoom",
+      "Category": "DemoFile",
+      "Description": "A animated demo of how zoom affects perspective.",
+      "Blender_File": "Source/Demo files/Zoom/zoom.blend",
+      "Thumbnail": "Source/Demo files/Zoom/thumbnail.jpg",
+      "Engine": "Cycles",
+      "Notes": "Source/Demo files/Zoom/notes.txt",
+      "Icons": {
+        "Is3D": "True",
+        "IsAsset": "False",
+        "IsAssets": "False",
+        "RequiresFastComputer": "True",
+        "IsAnimated": "True",
+        "IsRigged": "False",
+        "IsCurves": "False",
+        "IsTopPick": "False"
+      },
+      "Screenshots": [
+        "Source/Demo files/Zoom/Screenshot 1.jpg",
+        "Source/Demo files/Zoom/Screenshot 2.jpg",
+        "Source/Demo files/Zoom/Screenshot 3.jpg",
+        "Source/Demo files/Zoom/Screenshot 4.jpg"
+      ],
+      "Other_files": {
+        "Render": "Source/Demo files/Zoom/render.mp4"
+      }
+    },
+    {
+      "Name": "Lightning",
+      "Category": "FX",
+      "Blender_File": "Source/FX/Lightning/lightning.blend",
+      "Notes": "Source/FX/Lightning/notes.txt",
+      "Thumbnail": "Source/FX/Lightning/thumbnail.jpg",
+      "Description": "This is a simple lightning bolt made using shape keys and curves",
+      "Engine": "EEVEE",
+      "Icons": {
+        "Is3D": "False",
+        "IsAsset": "True",
+        "IsAssets": "False",
+        "RequiresFastComputer": "False",
+        "IsAnimated": "True",
+        "IsRigged": "False",
+        "IsCurves": "True",
+        "IsTopPick": "True",
+        "IsGeoNodes": "False"
+      },
+      "Screenshots": [
+        "Source/FX/Lightning/Screenshot 1.jpg",
+        "Source/FX/Lightning/Screenshot 2.jpg",
+        "Source/FX/Lightning/Screenshot 3.jpg"
+      ],
+      "Other_files": {
+        "Render": "Source/FX/Lightning/render.mp4",
+        "No_Bloom": "Source/FX/Lightning/no_bloom.mp4"
+      }
+    },
+    {
+      "Name": "Light trail",
+      "Category": "FX",
+      "Blender_File": "Source/FX/Light trail/light trail.blend",
+      "Notes": "Source/FX/Light trail/notes.txt",
+      "Thumbnail": "Source/FX/Light trail/thumbnail.jpg",
+      "Description": "A light trail effect using motion blur and a fast spinning curves object.",
+      "Engine": "EEVEE",
+      "Icons": {
+        "Is3D": "True",
+        "IsAsset": "False",
+        "IsAssets": "False",
+        "RequiresFastComputer": "True",
+        "IsAnimated": "True",
+        "IsRigged": "False",
+        "IsCurves": "True",
+        "IsTopPick": "False",
+        "IsGeoNodes": "False"
+      },
+      "Screenshots": [
+        "Source/FX/Light trail/Screenshot 1.jpg",
+        "Source/FX/Light trail/Screenshot 2.jpg",
+        "Source/FX/Light trail/Screenshot 3.jpg",
+        "Source/FX/Light trail/Screenshot 4.jpg"
+      ],
+      "Other_files": {
+        "Render": "Source/FX/Light trail/render.mp4"
+      }
+    },
+    {
+      "Name": "Array scatter",
+      "Category": "GeometryNodes",
+      "Blender_File": "Source/GeometryNodes/Array scatter/Array scatter.blend",
+      "Notes": "Source/GeometryNodes/Array scatter/notes.txt",
+      "Thumbnail": "Source/GeometryNodes/Array scatter/thumbnail.jpg",
+      "Description": "This is a geometry node array modifier that has many features and is not heavy on memory.",
+      "Engine": "EEVEE",
+      "Icons": {
+        "Is3D": "True",
+        "IsAsset": "True",
+        "IsAssets": "False",
+        "RequiresFastComputer": "False",
+        "IsAnimated": "False",
+        "IsRigged": "False",
+        "IsCurves": "False",
+        "IsTopPick": "True",
+        "IsGeoNodes": "True"
+      },
+      "Screenshots": [
+        "Source/GeometryNodes/Array scatter/Screenshot 1.jpg",
+        "Source/GeometryNodes/Array scatter/Screenshot 2.jpg"
+      ]
+    },
+    {
+      "Name": "Wireframe plus",
+      "Category": "GeometryNodes",
+      "Blender_File": "Source/GeometryNodes/Wireframe/wireframe.blend",
+      "Notes": "Source/GeometryNodes/Wireframe/notes.txt",
+      "Thumbnail": "Source/GeometryNodes/Wireframe/thumbnail.jpg",
+      "Description": "A geometry node setup that creates a wireframe effect on a mesh.",
+      "Engine": "EEVEE",
+      "Icons": {
+        "Is3D": "True",
+        "IsAsset": "True",
+        "IsAssets": "False",
+        "RequiresFastComputer": "False",
+        "IsAnimated": "False",
+        "IsRigged": "False",
+        "IsCurves": "False",
+        "IsTopPick": "True",
+        "IsGeoNodes": "True"
+      },
+      "Screenshots": [
+        "Source/GeometryNodes/Wireframe/Screenshot 1.jpg",
+        "Source/GeometryNodes/Wireframe/Screenshot 2.jpg",
+        "Source/GeometryNodes/Wireframe/Screenshot 3.jpg",
+        "Source/GeometryNodes/Wireframe/Screenshot 4.jpg",
+        "Source/GeometryNodes/Wireframe/Screenshot 5.jpg",
+        "Source/GeometryNodes/Wireframe/Screenshot 6.jpg"
+      ]
+    },
+    {
+      "Name": "Volume tools",
+      "Category": "GeometryNodes",
+      "Blender_File": "Source/GeometryNodes/Volume tools/volume tools.blend",
+      "Notes": "Source/GeometryNodes/Volume tools/notes.txt",
+      "Thumbnail": "Source/GeometryNodes/Volume tools/thumbnail.jpg",
+      "Description": "A set of geometry node volume tools for quick effects using the volume nodes in blender.",
+      "Engine": "EEVEE",
+      "Icons": {
+        "Is3D": "True",
+        "IsAsset": "False",
+        "IsAssets": "True",
+        "RequiresFastComputer": "True",
+        "IsAnimated": "False",
+        "IsRigged": "False",
+        "IsCurves": "False",
+        "IsTopPick": "True",
+        "IsGeoNodes": "True"
+      },
+      "Screenshots": [
+        "Source/GeometryNodes/Volume tools/Screenshot 1.jpg",
+        "Source/GeometryNodes/Volume tools/Screenshot 2.jpg",
+        "Source/GeometryNodes/Volume tools/Screenshot 3.jpg",
+        "Source/GeometryNodes/Volume tools/Screenshot 4.jpg"
+      ]
+    },
+    {
+      "Name": "Spiral Array",
+      "Category": "GeometryNodes",
+      "Blender_File": "Source/GeometryNodes/Spiral Array/spiral array.blend",
+      "Notes": "Source/GeometryNodes/Spiral Array/notes.txt",
+      "Thumbnail": "Source/GeometryNodes/Spiral Array/thumbnail.jpg",
+      "Description": "A geometry nodes modifier to scatter an object across an array.",
+      "Engine": "None",
+      "Icons": {
+        "Is3D": "True",
+        "IsAsset": "True",
+        "IsAssets": "False",
+        "RequiresFastComputer": "False",
+        "IsAnimated": "False",
+        "IsRigged": "False",
+        "IsCurves": "False",
+        "IsTopPick": "True",
+        "IsGeoNodes": "True"
+      },
+        "Screenshots": [
+            "Source/GeometryNodes/Spiral Array/Screenshot 1.jpg",
+            "Source/GeometryNodes/Spiral Array/Screenshot 2.jpg",
+            "Source/GeometryNodes/Spiral Array/Screenshot 3.jpg"
+        ]
+    }
+  ]
+}

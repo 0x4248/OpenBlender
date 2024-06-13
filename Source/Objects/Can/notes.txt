@@ -1,0 +1,16 @@
+Can
+
+This is a can that has a crumple modifier that is controlled using a empty and an armature.
+
+Usage:
+    Select the object Crumple empty and scale it. The higher the scale the more the crumple. You can also select the armature and bend the can.
+
+Note:
+    Moving and rotating the crumple empty does not affect the can.
+    
+Change log:
+    Added render scene for thumbnail
+
+Author: 0x4248
+Rendering Engine: None
+Licence CC-0 (Public Domain)

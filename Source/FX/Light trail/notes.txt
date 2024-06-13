@@ -1,0 +1,7 @@
+Light trail
+
+A light trail effect using motion blur and a fast spinning curves object.
+
+Author: 0x4248
+Render Engine: EEVEE
+Licence: CC-0 (Public Domain)

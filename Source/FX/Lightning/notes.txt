@@ -1,0 +1,7 @@
+FX Lightning bolt
+
+This is a simple lightning bolt made using shape keys and curves
+
+Author: 0x4248
+Render Engine: EEVEE
+Licence: CC-0 (Public Domain)

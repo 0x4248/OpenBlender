@@ -1,0 +1,7 @@
+Pallet
+
+A pallet created only with 4 objects and array modifiers. The objects all have procedural textures on them.
+
+Author: 0x4248
+Render Engine: Cycles
+Licence: CC-0 (Public Domain)

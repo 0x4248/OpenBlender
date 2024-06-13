@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>FilmX Composite nodes</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+        <link rel="stylesheet" href="css/filmx.css">
+    </head>
+    <body>
+        <h1>FilmX Composite nodes</h1>
+        <p>Easily apply a certain look to your footage or image with a single node group that can be easily adjusted and customized. Each film (node group) has a Letter and number to identify it. The letter is the type of the film and the number is the type number of the film. E.G is a node group has the name "C5" it is a C Type film and is the 5 film in the C type. FilmX is easy to install and use, just download the file and place the blender file where you store your assets. Then you can append the desired node group film to your project and start using it. FilmX is also entirely open source and free to use under the public domain meaning you can use it in any project and modify it to your liking.</p>
+        <a href="index.html" class="link">Back <i class="bi bi-arrow-left"></i></a>
+        <a href="FilmX/FilmX.blend" download="FilmX.blend" class="link">Download FilmX <i class="bi bi-download"></i></a>
+        <hr>
+        <label>Set demo image to:</label>
+        <a onclick="changeDemoImage('bee')" style="cursor: pointer;color: rgb(132, 132, 132);">Bee</a>
+        <a onclick="changeDemoImage('dog')" style="cursor: pointer;color: rgb(132, 132, 132);">Dog</a>
+        <a onclick="changeDemoImage('leaf')" style="cursor: pointer;color: rgb(132, 132, 132);">Leaf</a>
+        <a onclick="changeDemoImage('grid')" style="cursor: pointer;color: rgb(132, 132, 132);">Colour Grid</a>
+        <div class="section">
+            <h2>A Type</h2>
+            <div id="A_Gallery" class="gallery">
+            </div>
+        </div>
+        <div class="section">
+            <h2>B Type</h2>
+            <div id="B_Gallery" class="gallery">
+            </div>
+        </div>
+        <div class="section">
+            <h2>C Type</h2>
+            <div id="C_Gallery" class="gallery">
+            </div>
+        </div>
+        <div class="section">
+            <h2>D Type</h2>
+            <div id="D_Gallery" class="gallery">
+            </div>
+        </div>
+        <div class="section">
+            <h2>E Type</h2>
+            <div id="E_Gallery" class="gallery">
+            </div>
+        </div>
+        <br>
+        <hr>
+        <h2>Licence</h2>
+        <p>This project is completely open source and free to use under the public domain.</p>
+
+        <script src="js/filmx.js" defer></script>
+    </body>
+</html>

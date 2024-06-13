@@ -1,0 +1,7 @@
+Array scatter node
+
+This is a geometry node array modifier that has many features and is not heavy on memory.
+
+Author: 0x4248
+Render Engine: EEVEE
+Licence: CC-0 (Public Domain)

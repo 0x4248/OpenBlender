@@ -1,0 +1,7 @@
+Wireframe+
+
+A Geometry nodes modifier that procedurally puts a wireframe, faces and points effect on a object.
+
+Author: 0x4248
+Render Engine: EEVEE
+Licence: CC-0 (Public Domain)

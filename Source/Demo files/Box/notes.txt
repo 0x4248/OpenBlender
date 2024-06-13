@@ -1,0 +1,7 @@
+Box test render
+
+A benchmark file that has simple shaders and objects.
+
+Author: 0x4248
+Render Engine: Cycles
+Licence: CC-0 (Public Domain)

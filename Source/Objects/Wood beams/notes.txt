@@ -1,0 +1,9 @@
+Wood beams
+
+Collection of bent wooden beams for creating wooden structures.
+
+Textures from blender demo file diorama.
+
+Author: 0x4248
+Render Engine: Cycles
+Licence CC-0 (Public Domain)

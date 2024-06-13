@@ -1,0 +1,31 @@
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #0000003b;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    opacity: 0;
+    z-index: 1;
+}
+
+.top-bar a {
+    text-decoration: none;
+    margin-right: 40px;
+    color: #000000;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    .top-bar {
+        background-color: #1c1c1c28;
+    }
+
+    .top-bar a {
+        color: #ffffff;
+    }
+}

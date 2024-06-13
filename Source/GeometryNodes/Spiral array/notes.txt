@@ -1,0 +1,7 @@
+Spiral array
+
+A geometry nodes modifier to scatter an object across an array
+
+Author: 0x4248
+Render Engine: None
+Licence: Public Domain (CC-0)

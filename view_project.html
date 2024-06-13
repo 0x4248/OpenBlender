@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>View project</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/project_page.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    </head>
+    <body>
+        <button class="back_button" onclick="go_back();"><i class="bi bi-arrow-left"></i> Go back home</button>
+        <h1 id="title" class="title"></h1>
+        <p class="icons" id="icons"></p>
+        <br>
+        <div class="section">
+            <h2><i class="bi bi-file-earmark-text"></i> Project notes</h2>
+            <div id="notes" class="notes"></div>
+        </div>
+        <div class="section">
+            <h2><i class="bi bi-images"></i> Screenshots</h2>
+            <p>Click to open in a new tab</p>
+            <div id="screenshots" class="screenshots_gallery"></div>
+        </div>
+        <div class="section">    
+            <h2>Files</h2>
+            <div id="files"></div>
+        </div>
+        <br>
+        <div class="section">    
+            <h2>Licence</h2>
+            <p>This project file is completely open source and free to use under the public domain.</p>
+            <h2>Key</h2>
+            <p>3D: <i class="bi bi-box"></i> | Asset: <i class="bi bi-bookmark-fill"></i> | Multiple assets: <i class="bi bi-bookmarks-fill"></i> | Requires fast computer: <i class="bi bi-speedometer2"></i> | Animation: <i class="bi bi-record-circle-fill"></i> | Rigged: <i class="bi bi-universal-access"></i> | Curves <i class="bi bi-bezier"></i> | Top pick: <i class="bi bi-star-fill"></i> | Geometry Nodes: <i class="bi bi-diagram-2-fill"></i></p>
+        <div>
+        <script src="js/home.js"></script>
+        <script src="js/view_project.js" defer></script>
+    </body>
+</html>

@@ -1,0 +1,7 @@
+Volume tools
+
+A set of geometry node volume tools for quick effects using the volume nodes in blender.
+
+Author: 0x4248
+Render Engine: EEVEE
+Licence: CC-0 (Public Domain)
